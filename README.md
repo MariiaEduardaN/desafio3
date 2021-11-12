@@ -1,3 +1,2 @@
 # desafio3
-Desafio 3 da atividade de TPA
-index.html
+https://mariiaeduardan.github.io/desafio3/
